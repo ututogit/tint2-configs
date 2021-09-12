@@ -1,5 +1,5 @@
 #  tint2 panel themes
-#
+A collection of my personal tint2 panel configuration files I've been using over the years since the crunchbang days.
 
 
 ### hexagons
