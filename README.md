@@ -1,6 +1,9 @@
 # tint2-configs
 My tint2rc configuration files for tint2 panel
 
+## hexagons
+![hexagons-preview](https://user-images.githubusercontent.com/26050946/132997962-86607abf-fb2e-4d81-9ec9-6ddf6396c9da.png)
+
 ## lithium
 ![lithium-preview](https://user-images.githubusercontent.com/26050946/132997348-f4ca3014-04c2-4730-b99a-322de49282c9.png)
 
