@@ -1,6 +1,8 @@
 #  tint2 panel themes
 A collection of my personal tint2 panel configuration files I've been using over the years.
 
+### exit-solarized
+![simon_staleg-preview](https://user-images.githubusercontent.com/26050946/133000387-a00de8bc-8188-4ecc-8bcd-29ea96f1c9f9.png)
 
 ### hexagons
 ![hexagons-preview](https://user-images.githubusercontent.com/26050946/132997962-86607abf-fb2e-4d81-9ec9-6ddf6396c9da.png)
