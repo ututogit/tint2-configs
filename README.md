@@ -10,3 +10,6 @@ A collection of my personal tint2 panel configuration files I've been using over
 
 ### minimo
 ![minimo-preview](https://user-images.githubusercontent.com/26050946/132997725-31e44844-3c9d-4cd2-b8e6-0cab7bab56c7.png)
+
+### win10-icons-only
+![win-preview](https://user-images.githubusercontent.com/26050946/132999353-d9f73f4d-3f42-4e7c-bfc1-207533ec3786.png)
